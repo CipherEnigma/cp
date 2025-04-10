@@ -1,2 +1,2 @@
-# ChatSphere
-An AI Saas based chatbot built with MERN stack
+# Mockly
+An AI Saas interview platform built with Next.js,Tailwind, Vapi and Firebase
